@@ -1,0 +1,11 @@
+If we face this warning : 
+
+                           >>  Warning: @salesforce/cli update available from 2.79.4 to 
+                               »   2.80.12.
+
+Solution : 
+- Use this command  in VS Code Terminal 
+            - >> sfdx update
+
+- After updating we see result at end like this
+-           (  @salesforce/cli: Updating CLI from 2.79.4-8c7f849 to 2.81.9-b9aef0c... done  )
